@@ -4,7 +4,7 @@
 Dies ist die Dokumentation zur Sensebox Wetterstation Nienberge. Bei Rückfragen stehen wir gerne via E-Mail zur Verfügung
 
 ## Ziel
-Diese SenseBox als Instrument der Umweltdatenerfassung soll verschiedene Messdaten als OpenData bereitgestellen und so als Kartengrundlage dienen für den Kurs DigiKarto_SoSe16.
+Diese SenseBox als Instrument der Umweltdatenerfassung soll verschiedene Messdaten als OpenData bereitgestellee und so als Kartengrundlage dienen für den Kurs DigiKarto_SoSe16.
 Neben den in der Sense-Box enthaltenen Sensoren wurde bei dieser Sensebox-Wetterstation besonders Wert auf das Schalensternanemometer gelegt. 
 Die Messdaten der Station werden in einem vorgegebenen Intervall an die [OpenSenseMap](http://opensensemap.org/) übertragen und dort veröffentlicht unter dem Namen ["Wetterstation Nienberge"](http://opensensemap.org/explore/573d736d566b8d3c11114aaf)
 
@@ -60,7 +60,16 @@ Schaltplan:
 <image src=""/>
 
 #### Softwaresketch
-Implementieung kurz Beschreiben
+Der Software-Sketch basiert auf der von der Open-Sense-Map bereitgestellten Grundlage welche bspw. das hochladen der Daten bereits beinhaltet hat.
+ 
+Links zu den zusätzlichen Bibliotheken:
+
+ - [HDC100X](https://github.com/RFgermany/HDC100X_Arduino_Library)
+ - [TSL45315](https://github.com/adidax/Makerblog_TSL45315)
+ - [Ethernet-Bibliothek](https://github.com/Wiznet/WIZ_Ethernet_Library)
+ - ...
+
+
 
 Links zu zusätzlichen Bibliotheken
 
@@ -71,14 +80,22 @@ Links zu zusätzlichen Bibliotheken
 ```
 
 ## OpenSenseMap Registrierung
-Beschreibung der Sensorregistrierung
+Die Registrierung bei der OpenSenseMap erforderte lediglich die Eingabe von Name, E-mail-Adresse Aufstellungsort und die verwendeten Sensoren. Nach Absenden des Formulares konnten wir in das per E-mail zugeschickte Arduino-Sketch die Sensor-Auslese-Sketche einpflegen, da wir diese bisher getrennt voneinander in unterschiedlichen Sketchen ausgelesen hatten. Diese mussten also in einem Sketch inklusive der Schablone vereint werden.
+
+Die Station ist nun auf der OpenSenseMap unter dem Namen "Wetterstation Nienberge" registriert. Es wurden insgesamt 4 Sensoren angebracht die folgende 5 Messwerte ergeben:
+
+ - Temperatur (in °C)
+ - Luftfeuchtigkeit (%)
+ - Lichtintensität (Lux)
+ - UV-Intensität (µW/cm²)
+ - Windgeschwindigkeit (m/s)
+
+Die aktuellen Daten der Station können unter folgendem Link erreicht werden:
+http://opensensemap.org/explore/573d736d566b8d3c11114aaf
 
 ## Stationsaufbau
-Wo wurde die Station aufgestellt?
-
-Foto einfügen
+Die Station ist auf einem Balkon in der Jacobistrasse, 48161 in Münster aufgestellt und in Richtung Süd-SüdWest ausgerichtet. Dieser Standpunkt eignet sich besonders für das Sternschalenanemometer da der Wind hier nicht durch andere Gebäude beeinflusst wird, sondern frei über den angrenzenden Garagenhof wehen kann. 
 
 ## Kontakt
-Autor
-Email
-Datum
+Matthias Podlaha Email: m_podl01@wwu.de
+Timo Isbilir: timoisbilir@web.de
