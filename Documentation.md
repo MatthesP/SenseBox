@@ -96,6 +96,9 @@ http://opensensemap.org/explore/573d736d566b8d3c11114aaf
 ## Stationsaufbau
 Die Station ist auf einem Balkon in der Jacobistrasse, 48161 in Münster aufgestellt und in Richtung Süd-SüdWest ausgerichtet. Dieser Standpunkt eignet sich besonders für das Sternschalenanemometer da der Wind hier nicht durch andere Gebäude beeinflusst wird, sondern frei über den angrenzenden Garagenhof wehen kann. 
 
+![Station_montiert](https://raw.githubusercontent.com/MatthesP/SenseBox/master/pictures/IMG_0847.JPG)
+![Station_montiert_2](https://raw.githubusercontent.com/MatthesP/SenseBox/master/pictures/IMG_0848.JPG)
+
 ## Kontakt
 Matthias Podlaha Email: m_podl01@wwu.de
 Timo Isbilir: timoisbilir@web.de
