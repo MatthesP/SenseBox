@@ -4,7 +4,7 @@
 Dies ist die Dokumentation zur Sensebox Wetterstation Nienberge. Bei Rückfragen stehen wir gerne via E-Mail zur Verfügung
 
 ## Ziel
-Diese SenseBox als Instrument der Umweltdatenerfassung soll verschiedene Messdaten als OpenData bereitgestellee und so als Kartengrundlage dienen für den Kurs DigiKarto_SoSe16.
+Diese SenseBox als Instrument der Umweltdatenerfassung soll verschiedene Messdaten als OpenData bereitgestellen und so als Kartengrundlage dienen für den Kurs DigiKarto_SoSe16.
 Neben den in der Sense-Box enthaltenen Sensoren wurde bei dieser Sensebox-Wetterstation besonders Wert auf das Schalensternanemometer gelegt. 
 Die Messdaten der Station werden in einem vorgegebenen Intervall an die [OpenSenseMap](http://opensensemap.org/) übertragen und dort veröffentlicht unter dem Namen ["Wetterstation Nienberge"](http://opensensemap.org/explore/573d736d566b8d3c11114aaf)
 
