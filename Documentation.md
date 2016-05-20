@@ -1,7 +1,7 @@
 <img src="https://github.com/sensebox/OER/blob/master/senseBox_edu/images/sensebox_logo_neu.png" width="200"/>
 
 # Sensebox "Wetterstation Nienberge"
-Dies ist die Dokumentation zur Sensebox Wetterstation Nienberge. Bei Rückfragen stehen wir gerne via E-Mail zur Verfügung
+Dies ist die Dokumentation zur Sensebox Wetterstation Nienberge. Bei Rückfragen stehen wir gerne via E-Mail zur Verfügung.
 
 ## Ziel
 Diese SenseBox als Instrument der Umweltdatenerfassung soll verschiedene Messdaten als OpenData bereitgestellen und so als Kartengrundlage dienen für den Kurs DigiKarto_SoSe16 am Ifgi der WWU.
