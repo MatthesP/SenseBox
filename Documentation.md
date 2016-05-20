@@ -68,7 +68,7 @@ Links zu den zusätzlichen benötigten Bibliotheken für Sensoren/Shields:
 
  - [HDC100X Bibliothek](https://github.com/RFgermany/HDC100X_Arduino_Library)
  - [TSL45315 Bibliothek](https://github.com/adidax/Makerblog_TSL45315)
- -  - [VEML6070 Bibliothek](https://github.com/adafruit/Adafruit_VEML6070)
+ - [VEML6070 Bibliothek](https://github.com/adafruit/Adafruit_VEML6070)
  - [Ethernet-Bibliothek](https://github.com/Wiznet/WIZ_Ethernet_Library)
 
 **Programmcode**
