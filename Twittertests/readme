@@ -1,1 +1,8 @@
-readme
+Twittertests Readme 
+
+Ich habe versucht die Twitterkonnektivität mittels des Lan-Shields W5500 zu realisieren. Dies gab mir jedoch direkt einen Error aus und 
+konnte keine Verbindung herstellen. 
+Dementsprechend habe ich es mit dem LanShield W5200 probiert. Dies hat zumindest dazu geführt dass überhaupt eine Verbindung herstellen konnte,
+gab mir jedoch den HTTP:Error 0 wieder, dies ist ein undefinierter HTTP Error welcher normalerweise ausgegeben wird wenn bspw. die FireWall
+eine Internetverbindung untersagt. Dieses Problem konnte ich leider nicht lösen.
+
